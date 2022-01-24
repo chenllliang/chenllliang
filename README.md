@@ -6,4 +6,4 @@ I will join PKU-ICL in Sept. 2022 for Master's Degree.
 
 ### Profile Summary
 
-![summary](https://github-readme-stats.vercel.app/api?username=chenllliang&show_icons=true&theme=radical)
+![summary](https://github-readme-stats.vercel.app/api?username=chenllliang&show_icons=true)
