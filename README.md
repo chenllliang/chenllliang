@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙈 Currently working on Translation and Semantic Parsing.
+- 🙈 Currently, I am working on Machine Translation and Semantic Parsing.
 - [About Me](https://chenllliang.github.io/about/)
 - [Google Scholar](https://scholar.google.com/citations?user=lMKPaTYAAAAJ&hl=en)
 
